@@ -1,24 +1,24 @@
-# Bonjour, je suis Jonas! 👋
+# Hello, I'm Jonas! 👋
 
-Je suis un passionné de développement web basé au Burkina Faso. Mon amour pour le code se manifeste à travers le langage PHP, avec une expertise particulière dans les frameworks Laravel. Je suis également fasciné par le domaine de l'intelligence artificielle.
+I'm a passionate web developer based in Burkina Faso. My love for code manifests itself through the PHP language, with particular expertise in Laravel frameworks. I'm also fascinated by the field of artificial intelligence.
 
-## 🚀 Compétences
-- **Langages de programmation :** PHP, JavaScript
-- **Frameworks :** Laravel, Livewire
-- **Technologies front-end :** HTML, CSS, jQuery, Bootstrapp
-- **Base de données :** MySQL, PostgreSQL,
-- **Outils de versionnement :** Git, GitHub
+## 🚀 Skills
+- Programming languages:** PHP, JavaScript
+- Frameworks:** Laravel, Livewire
+- Front-end technologies:** HTML, CSS, jQuery, Bootstrapp
+- Database:** MySQL, PostgreSQL,
+- Versioning tools:** Git, GitHub
 
-## 🌐 Projets notables
-- GestionEmployer v1 : https://github.com/jonasdevpro/gestion_employer.git 
-- App de Tontine https://github.com/jonasdevpro/pteam_tontineVersion2.5.1.git
+## 🌐 Notable projects
+- GestionEmployer v1: https://github.com/jonasdevpro/gestion_employer.git 
+- Tontine app https://github.com/jonasdevpro/pteam_tontineVersion2.5.1.git
 
-N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mon travail!
+Feel free to explore my GitHub projects to learn more about my work!
 
-## 📫 Comment me contacter
+## 📫 How to contact me
 - LinkedIn: https://www.linkedin.com/in/jonas-so-784515274
 - Email: kjonasdevpro@gmail.com
 
-N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants, collaborer ou simplement échanger sur le monde du développement web et de l'IA. Je suis toujours ouvert aux nouvelles opportunités et aux connexions enrichissantes!
+Feel free to contact me if you'd like to discuss exciting projects, collaborate or just chat about the world of web development and AI. I'm always open to new opportunities and rewarding connections!
 
 ![animation2](https://github.com/jonasdevpro/jonasdevpro/assets/142751744/123bf736-b2d3-47d8-b7d8-8cb0889a22d6)
