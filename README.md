@@ -3,15 +3,16 @@
 I'm a passionate web developer based in Burkina Faso. My love for code manifests itself through the PHP language, with particular expertise in Laravel frameworks. I'm also fascinated by the field of artificial intelligence.
 
 ## 🚀 Skills
-- Programming languages:** PHP, JavaScript
-- Frameworks:** Laravel, Livewire
-- Front-end technologies:** HTML, CSS, jQuery, Bootstrapp
-- Database:** MySQL, PostgreSQL,
-- Versioning tools:** Git, GitHub
+- Programming languages: PHP, JavaScript
+- Frameworks: Laravel, Livewire, 
+- Front-end technologies: HTML, CSS, jQuery, Bootstrapp, React
+- Database: MySQL, PostgreSQL,
+- Versioning tools: Git, GitHub
 
 ## 🌐 Notable projects
 - GestionEmployer v1: https://github.com/jonasdevpro/gestion_employer.git 
 - Tontine app https://github.com/jonasdevpro/pteam_tontineVersion2.5.1.git
+- Todo List React app : https://github.com/jonasdevpro/first-projet-react.git
 
 Feel free to explore my GitHub projects to learn more about my work!
 
